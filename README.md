@@ -1,2 +1,2 @@
 # Minecraft-Mods-Template
-A template to quickly create new mods for Minecraft Java Edition
+Adds crows as a new mob that spawn in dark oak forests. Feed them seeds of any type to gain their trust, and they'll warn you of any nearby hostile mobs!
