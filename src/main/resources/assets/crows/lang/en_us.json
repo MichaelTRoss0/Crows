@@ -1,0 +1,15 @@
+{
+  "_comment": "Entity",
+  "entity.crows.crow": "Crow",
+  "item.crows.crow_spawn_egg": "Crow Spawn Egg",
+
+  "_comment": "Subtitles",
+  "crows:subtitles.crow.ambient": "Crow caws",
+  // Make more subtitles here when more sounds are added
+  "crows:subtitles.crow.death": "Crow dies",
+  "crows:subtitles.crow.hurt": "Crow hurts",
+
+  "_comment": "Tooltip",
+  "crows:config.category.general.tooltip": "General config options for Crows",
+  "crows:config.category.spawnchances.tooltip": "Configurable spawn chances for crows"
+}

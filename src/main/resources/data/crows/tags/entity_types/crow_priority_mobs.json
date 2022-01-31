@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cave_spider",
+    "minecraft:creeper",
+    "minecraft:stray",
+    "minecraft:vex",
+    "minecraft:wither",
+    "minecraft:zoglin",
+    "#minecraft:raiders"
+  ]
+}
